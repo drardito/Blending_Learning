@@ -1,4 +1,5 @@
-Blending_Learning
+Blending Learning
 =================
 
-Resources for a workshop on Blended Learning for the Mediterranean Center for Innovation in Education, Summer 2014
+Resources for a workshop on Blended Learning for the Mediterranean Center for Innovation in Education, Summer 2014.
+
