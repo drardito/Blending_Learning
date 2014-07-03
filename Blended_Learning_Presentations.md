@@ -1,4 +1,4 @@
-#BLended Learning Presentations
+#Blended Learning Presentations
 
 Here is a set of presentations that are part of our work together on designing Blended Learning Environments
 
