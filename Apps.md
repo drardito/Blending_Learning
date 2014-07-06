@@ -17,3 +17,6 @@ http://snapguide.com/guides/use-creative-book-builder/
 
 Here is a video tutorial for using CBB:
 http://www.youtube.com/watch?v=KJoslt6bz9E
+
+Here is a step-by-step tutorial for building a book on the Water Cycle using CBB:
+http://www.iceberg.org/userfiles/CreativeBookBuilder_Tutorial2012.pdf
