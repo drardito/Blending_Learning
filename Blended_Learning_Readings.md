@@ -1,6 +1,6 @@
 #Blended Learning Readings
 
-Here is a set of readings about Blended Learning.
+Here is a set of research articles about Blended Learning.
 I have tried to collect papers and book chapters that were the most relevant and the least tainted by hype and other agendas.
 
 ##Theory and Practice of Online Learning
