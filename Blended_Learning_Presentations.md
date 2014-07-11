@@ -5,7 +5,7 @@ Here is a set of presentations that are part of our work together on designing B
 ##Game of Life Science
 https://www.icloud.com/iw/#keynote/BAKDFtlvNA0Y2_tncxOBtBefdSAvAOOUgPSE/Game_of_Life_Science_NYSCATE_2014
 
-This is a case study that describes a self-directed, blended learning experience for 8th grade Life Scinece students conducted over two school years.
+This is a case study that describes a self-directed, blended learning experience for 8th grade Life Scinece students conducted over two school years. It documents the process and tools used to establish the learning environment.
 
 ##Connectivism
 http://www.slideshare.net/Downes/connectivism-and-personal-learning
