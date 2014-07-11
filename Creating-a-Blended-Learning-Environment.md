@@ -1,3 +1,5 @@
+Here is a process that can be used to thing through designing and blended learning environment.
+
 #Creating a Blended Environment
 
 Blended Learning means many things to many people. For some, it means that synchronous face to face learning time is blended with asynchronous online learning time. For others, it means the blending of physical and virtual learning spaces. For others, it means the blending of computer enhanced technologies into a more traditional learning environment.
